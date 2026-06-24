@@ -16,7 +16,7 @@ A classic Snake Game developed in Java using Swing and Object-Oriented Programmi
 1. Open project in NetBeans.
 2. Run SnakeGame.java.
 3. Press ENTER to start.
-4. <img width="953" height="506" alt="Screenshot 2026-06-24 151736" src="https://github.com/user-attachments/assets/b29587e2-9575-4082-83f6-16fa0486e572" />
+<img width="953" height="506" alt="Screenshot 2026-06-24 151736" src="https://github.com/user-attachments/assets/b29587e2-9575-4082-83f6-16fa0486e572" />
 <img width="951" height="503" alt="Screenshot 2026-06-24 151717" src="https://github.com/user-attachments/assets/3d03ab15-e8ce-4045-ba0c-f3ec6a9c5e69" />
 
 <img width="955" height="504" alt="Screenshot 2026-06-24 151641" src="https://github.com/user-attachments/assets/2ab9cbe0-f3ea-464d-bda5-ec951dc61377" />
