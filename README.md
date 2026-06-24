@@ -1,7 +1,4 @@
-# Java-Snake-Game
-Snake Game developed in Java using Swing and OOP concepts
 # Java Snake Game
-
 A classic Snake Game developed in Java using Swing and Object-Oriented Programming.
 
 ## Features
