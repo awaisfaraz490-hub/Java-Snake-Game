@@ -25,6 +25,15 @@ A classic Snake Game developed in Java using Swing and Object-Oriented Programmi
 
 <img width="955" height="504" alt="Screenshot 2026-06-24 151641" src="https://github.com/user-attachments/assets/2ab9cbe0-f3ea-464d-bda5-ec951dc61377" />
 <img width="955" height="503" alt="Screenshot 2026-06-24 151501" src="https://github.com/user-attachments/assets/6200962d-cfe4-4a29-a279-ad2d3891ac50" />
+## Future Improvements
+
+- High Score Saving System
+- Pause and Resume Feature
+- Multiple Difficulty Levels
+- Sound Effects
+- Better Graphics and Animations
+- Power-Ups and Special Food
+- Custom Themes
 
 ## Author
 AWAIS FARAZ
