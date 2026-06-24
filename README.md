@@ -1,6 +1,3 @@
-# Java Snake Game
-A classic Snake Game developed in Java using Swing and Object-Oriented Programming.
-
 ## Features
 - Start Menu
 - Arrow Key Controls
